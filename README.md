@@ -14,16 +14,16 @@ Nazwisko: Królik<BR>
 <TABLE>
    <TR style="font-size: 23px;" >
        
-       <TD>
-       <IMG SRC=        >
+       
 </TD>
  <TD><P>Nazywam się Roksana.
    Jestem osobą fikcyjną.
    Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych seriali ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
 
           
-       </TD>
+</TD>
 </TR>
+
 <TR style="font-size: 23px;">
 
            <TD><P>Pierwszym serialem jaki chciałabym wam polecić jest "Shadowhunters". Opowiada on o dziewczynie, która prowadziła do swoich osiemnastych urodzin normalne życie. Jednak wszystko się zmieniło. Główna bohaterka odkryła, że jest Nocnym Łowcą. Dziewczyna wkracza w magiczny świat wraz ze swoimi przyjaciółmi.</P>
