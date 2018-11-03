@@ -33,7 +33,7 @@ Nazwisko: Królik<BR>
        </TD>
         
         <TD>
-       <IMG SRC=        >
+       <IMG SRC=         >
 </TD>
 
      <TD><P>Żródła: https://pl.wikipedia.org/wiki/Shadowhunters
