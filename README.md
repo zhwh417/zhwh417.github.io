@@ -11,9 +11,6 @@
 Moje imię: Roksana<BR>
 Nazwisko: Królik<BR>
 
-<TABLE>
-   <TR style="font-size: 23px;" >
-       
       
  <TD><P>Nazywam się Roksana.
    Jestem osobą fikcyjną.
