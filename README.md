@@ -10,8 +10,8 @@
 <H1 style="text-align: center; color: pink; background-color: black; ">Strona o serialach i filmach dla młodzieży.</H1>
 
 <BR>
-Moje imię: Roksana
-Nazwisko: Królik
+Moje imię: Roksana <BR>
+Nazwisko: Królik <BR>
    Jestem osobą fikcyjną.
    Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych seriali ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.
  </BR>
